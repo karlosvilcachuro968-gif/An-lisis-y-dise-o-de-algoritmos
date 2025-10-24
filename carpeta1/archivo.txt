@@ -1,0 +1,4 @@
+La clase ShellSort ordena arreglos usando el algoritmo Shell Sort. 
+El método ordenar recibe un arreglo y un comparador, y va moviendo elementos usando saltos que se reducen progresivamente hasta ordenar todo. 
+Gap es la distancia entre elementos que se comparan. Se guarda temporalmente un valor y se mueve cada elemento mayor hacia la derecha hasta colocar el valor en su posición correcta. 
+El main crea un arreglo de números, lo imprime antes y después de ordenarlo usando Shell Sort con Integer::compareTo.
