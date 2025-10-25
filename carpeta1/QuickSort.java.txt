@@ -1,0 +1,11 @@
+Usa el último elemento del arreglo como pivote.
+
+Divide el arreglo en dos partes:
+
+Los menores o iguales al pivote.
+
+Los mayores al pivote.
+
+Luego, llama recursivamente al método quickSort para ordenar cada subarreglo.
+
+Finalmente, imprime el arreglo ordenado.
