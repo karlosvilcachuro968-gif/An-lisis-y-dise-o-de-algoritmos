@@ -1,0 +1,4 @@
+Este código implementa el algoritmo Bubble Sort para ordenar un arreglo de enteros.
+Compara elementos adyacentes e intercambia los que están en orden incorrecto.
+Repite el proceso hasta que no haya más intercambios, indicando que el arreglo está ordenado.
+Incluye un método para mostrar los elementos del arreglo en consola.
