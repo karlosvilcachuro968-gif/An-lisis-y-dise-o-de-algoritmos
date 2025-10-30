@@ -1,0 +1,1 @@
+Esta clase implementa dos métodos de búsqueda sobre una lista de vehículos busquedaLineal recorre la lista elemento por elemento hasta encontrar la capacidad indicada, busquedaBinaria busca más rápido dividiendo la lista ordenada por mitades sucesivas, ambos devuelven el vehículo encontrado o null si no existe.
