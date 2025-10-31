@@ -1,0 +1,5 @@
+este código compara distintos métodos de búsqueda aplicados a una lista de vehículos.
+primero ordena los datos y luego busca una capacidad específica.
+usa búsqueda lineal y binaria para comparar rapidez y eficiencia.
+también incluye búsquedas por bloques, con índice y por hash.
+finalmente muestra qué vehículo encontró y cuánto tardó cada método.
