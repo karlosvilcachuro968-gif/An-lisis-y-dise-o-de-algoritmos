@@ -1,0 +1,4 @@
+El Shell sort ordena una lista poco a poco.
+Primero compara elementos que están lejos entre sí y los acomoda.
+Luego va reduciendo la distancia hasta comparar elementos cercanos.
+Al final, la lista queda ordenada más rápido que con el método de inserción.
