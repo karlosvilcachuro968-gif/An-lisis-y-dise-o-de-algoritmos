@@ -1,0 +1,6 @@
+La recursividad es una técnica de programación donde una función se llama a sí misma para resolver un problema más grande dividiéndolo en subproblemas más pequeños.
+Para que funcione correctamente, debe tener un caso base donde deja de llamarse.
+Este programa aplica recursividad directa para buscar un vehículo dentro de un archivo de texto.
+Primero, carga los datos desde vehiculos.txt y los guarda en un arreglo.
+Luego, la función recursiva busca la placa comparando elemento por elemento hasta encontrar coincidencia.
+De esta forma, demuestra cómo un problema se puede resolver repitiendo llamadas a sí mismo hasta cumplir una condición base.
