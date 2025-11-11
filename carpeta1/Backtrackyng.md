@@ -1,0 +1,2 @@
+El backtracking (o vuelta atrás) es una técnica de búsqueda y resolución de problemas que consiste en explorar todas las posibles soluciones de forma sistemática, retrocediendo (“haciendo backtrack”) cuando una opción no lleva a una solución válida, el algoritmo va tomando decisiones paso a paso, y si llega a un punto donde no puede continuar o no cumple las condiciones, vuelve atrás para probar una alternativa diferente.
+
