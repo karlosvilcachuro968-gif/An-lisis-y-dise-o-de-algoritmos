@@ -1,0 +1,2 @@
+La recursividad es una técnica donde una función se llama a sí misma para resolver un problema grande a partir de versiones más pequeñas del mismo problema. Cada llamada recursiva debe acercarse a un caso base, que es la condición donde la función deja de llamarse de nuevo. Se usa mucho en algoritmos como factorial, Fibonacci, búsqueda binaria o recorridos de estructuras como árboles. Bien diseñada, permite escribir soluciones más claras y elegantes, aunque requiere controlar bien las condiciones para evitar llamadas infinitas.
+
